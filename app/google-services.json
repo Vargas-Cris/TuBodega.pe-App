@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "121421677238",
+    "project_id": "bodega-7b92f",
+    "storage_bucket": "bodega-7b92f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121421677238:android:69e89ee8ae4e13da0d9c17",
+        "android_client_info": {
+          "package_name": "com.example.hola"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121421677238-asq3vvctoic514grfk64u0s622kkmkss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOul8A5flA8cbDPJxX2zaVSSoqueqtMk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121421677238-asq3vvctoic514grfk64u0s622kkmkss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
